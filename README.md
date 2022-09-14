@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+My name is Andrey, i'm a 20's years old student
+---------
+I write:<br>
+web services, chat bots on python<br>
+android app on java<br>
+frontend html+css+javaSript
+--------
+yaidf@ya.ru
 <!--
 **kalanod/kalanod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
