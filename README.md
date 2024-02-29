@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Andrey, i'm a 20's years old student
+My name is Andrey, i'm a 22's years old student
 ---------
 I write:<br>
 web services, chat bots on python<br>
